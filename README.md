@@ -1,5 +1,5 @@
 # Crypto
-Crypto Implementations, with simple, easy to understand documentation. (NO BS)
+Crypto Java Implementations, with simple easy to understand documentation. (NO BS)
 
 LFSR:
 https://github.com/theonlymosmos/LFSR
